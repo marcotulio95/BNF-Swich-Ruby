@@ -1,0 +1,7 @@
+PRIMARY:
+	case COMPSTMT
+		when WHEN_ARGS THEN COMPSTMT
+		{when WHEN_ARGS THEN COMPSTMT}
+		[else 
+			COMPSTMT]
+	end
