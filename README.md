@@ -23,7 +23,7 @@ Implementação de um Switch Case em Ruby. Como foco estudar a BNF da linguagem.
 --------------------------------------------------------------------------------
 # Arvore Sintática Gerada para o exemplo:
 
-<p align="center"><img width="95%" src="" /></p>
+<p align="center"><img width="95%" src="http://radiovemlouvar.com/imagens/arvore.png" /></p>
 
 --------------------------------------------------------------------------------
 # Semantica Operacional Gerada para o exemplo:
