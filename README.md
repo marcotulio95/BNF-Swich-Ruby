@@ -1,3 +1,12 @@
+# Dados do Aluno:
+
+* Universidade Federal de Goiás
+* Aluno: Marco Túlio Macedo Rodrigues
+* Matricula: 135834
+* Disciplina: Linguagens de Programação
+* Lista 1 de exercicios.
+
+--------------------------------------------------------------------------------
 # BNF-Swich-Ruby
 Implementação de um Switch Case em Ruby. Como foco estudar a BNF da linguagem.
 
@@ -14,7 +23,7 @@ Implementação de um Switch Case em Ruby. Como foco estudar a BNF da linguagem.
 --------------------------------------------------------------------------------
 # Arvore Sintática Gerada para o exemplo:
 
-<p align="center"><img width="95%" src="Arvore_Sintatica_Case_Ruby.png" /></p>
+<p align="center"><img width="95%" src="https://github.com/marcotulio95/BNF-Swich-Ruby/blob/master/Arvore_Sintatica_Case_Ruby.png" /></p>
 
 --------------------------------------------------------------------------------
 # Semantica Operacional Gerada para o exemplo:
